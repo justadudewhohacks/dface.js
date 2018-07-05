@@ -1,4 +1,6 @@
-face-recognition.js
+
+<img src="logo/logo.png"/>
+
 =============
 [![Build Status](https://travis-ci.org/justadudewhohacks/face-recognition.js.svg?branch=master)](http://travis-ci.org/justadudewhohacks/face-recognition.js)
 [![Build status](https://ci.appveyor.com/api/projects/status/a72kh7vd5hh09bso/branch/master?svg=true)](https://ci.appveyor.com/project/justadudewhohacks/face-recognition-js/branch/master)
