@@ -16,4 +16,5 @@ coverage
 coverage-report
 tmpdata
 ci
+logo
 .dockerignore
